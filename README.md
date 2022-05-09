@@ -54,20 +54,6 @@ Project Link: [https://github.com/kcarrowsmith/communityBEF](https://github.com/
 
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -79,18 +65,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kcarrowsmith/communityBEF.svg?style=for-the-badge
-[contributors-url]: https://github.com/kcarrowsmith/communityBEF/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kcarrowsmith/communityBEF.svg?style=for-the-badge
-[forks-url]: https://github.com/kcarrowsmith/communityBEF/network/members
-[stars-shield]: https://img.shields.io/github/stars/kcarrowsmith/communityBEF.svg?style=for-the-badge
-[stars-url]: https://github.com/kcarrowsmith/communityBEF/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kcarrowsmith/communityBEF.svg?style=for-the-badge
-[issues-url]: https://github.com/kcarrowsmith/communityBEF/issues
-[license-shield]: https://img.shields.io/github/license/kcarrowsmith/communityBEF.svg?style=for-the-badge
-[license-url]: https://github.com/kcarrowsmith/communityBEF/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
